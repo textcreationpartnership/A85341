@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The good Catholick no bad subject. Or, A letter from a Catholick gentleman to Mr. Richard Baxter. Modestly accepting the challenge by him made in his Sermon of repentance, preached before the Honorable House of Commons, 30 April, 1660.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85341</idno>
+            <idno type="STC">Wing G1038</idno>
+            <idno type="STC">Thomason E1027_13</idno>
+            <idno type="EEBO-CITATION">99862637</idno>
+            <idno type="PROQUEST">99862637</idno>
+            <idno type="VID">168878</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168878)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1027[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The good Catholick no bad subject. Or, A letter from a Catholick gentleman to Mr. Richard Baxter. Modestly accepting the challenge by him made in his Sermon of repentance, preached before the Honorable House of Commons, 30 April, 1660.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Baxter, Richard.  A sermon of repentance.</note>
+                  <note>A variant of the edition with John Dakins's name in imprint.</note>
+                  <note>Annotation on Thomason copy: "June 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baxter, Richard, 1615-1691. --  Sermon of repentance</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Religion and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168878:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Good Catholick no Bad Subject.</hi>
+            </p>
+            <p>Or, A LETTER FROM A CATHOLLCK GENTLEMAN TO Mr. <hi>RICHARD BAXTER.</hi>
+            </p>
+            <p>Modeſtly accepting the Challenge by him made in his Sermon of <hi>Repentance,</hi> Preached be<g ref="char:EOLhyphen"/>fore the Honorable HOUSE of COMMONS, 30 <hi>April,</hi> 1660.</p>
+            <q>
+               <bibl>
+                  <hi>GAL. 5.26.</hi>
+               </bibl>
+               <p>Non efficiamur inanis gloriae cupidi, invicem provocantes, invi<g ref="char:EOLhyphen"/>cem invidentes.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168878:2"/>
+            <pb n="1" facs="tcp:168878:2"/>
+            <head>
+               <hi>The Good Catholick no Bad Subject.</hi> OR, A Letter from a Catholick Gentleman to Mr. <hi>Richard Baxter.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce, I preſume, you deſire an Adverſary, who uſe the diligence of a publick Challenge to procure one, and that none will think it ſtrange, you ſhould be ſollicited to perform what you have ſo ſolemnly undertaken; All I have to do, is, in few words, to acquaint my Reader, (who, I think, will ſee it reaſonable you ſhould be oppos'd,) why you are oppos'd by me.</p>
+            <p>I am a perſon, by the infinite Grace of God, bred up in the Catholick Religion, from which I have learned, my Duty to God cannot be complied with, without an exact performance of my Duty to my Soveraign: To obey him, not for advantage, or temporal concerns, but out of conſcience; and becauſe ſuch is the known will of him, the obedience to whoſe commands is Religion, has always made a part of mine, being a point, as all other which belong to my Faith, preached by he Apoſtles, and from them derived to me by the miniſtry of thoſe perſons his ſa<g ref="char:EOLhyphen"/>cred wiſdom has appointed to ſucceed them.</p>
+            <p>This Doctrine inſtill'd into my youth by Catechiſms, con<g ref="char:EOLhyphen"/>firm'd to my riper years by Sermons and Conferences, and poſ<g ref="char:EOLhyphen"/>ſeſſing my ſoul with ſo ſetled a beleef, that I did not think any body could pretend to know what Catholick Doctrine is, and not know that this is a part of it, occaſioned a ſtrange ſurprize in me, when Chance ſeconding my Curioſity, in giving me a fight
+<pb n="2" facs="tcp:168878:3"/>of your Sermon preached before the Honorable Houſe of Com<g ref="char:EOLhyphen"/>mons, <hi>Apr.</hi> 30. 1660. of which I had heard ſomthing before, I found in it a plain Challenge, and undertaking to prove againſt any Adverſary, <hi>That a Papiſt muſt ceaſe to be a Papiſt, if he will be truly or fully loyal to his Soveraign.</hi> Had you ſaid onely, <hi>Loyalty</hi> were no part of his Religion, and that he performed his Allegiance by the help of ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me other Virtue, (though an indif<g ref="char:EOLhyphen"/>ferent Judge would wonder you ſhould have better intelligence of their Religion, then themſelves, who certainly know, and from the certain knowledge profeſs it teaches Loyalty to be a Divine indiſpenſable Command) the Aſſertion, however it would have been altogether as falſe, would perhaps have ap<g ref="char:EOLhyphen"/>pear'd not altogether ſo exotick. But to deny Loyalty not onely an admittance into, but a conſiſtence with his Religion, and put an unavoidable neceſſity upon him, of being eihter a Tray<g ref="char:EOLhyphen"/>tor to God, by renouncing his Faith, or a Traytor to his Sove<g ref="char:EOLhyphen"/>raign, by renouncing his Allegiance, is a Paradox of that won<g ref="char:EOLhyphen"/>derfull exceſs, that I know not whether is greater, the confi<g ref="char:EOLhyphen"/>dence to aſſert, or impoſſibility to maintain it. How, Sir, will you undertake to prove, A Catholick muſt neceſſarily deſert ei<g ref="char:EOLhyphen"/>ther God, or his King, who, I think, cannot, I am ſure, ſhould not be ignorant, that to render what is <hi>Caeſars</hi> to <hi>Caeſar,</hi> does as truly belong to his Religion, as to render what is <hi>Gods</hi> to <hi>God!</hi> That he makes not diſtinct Duties of theſe, but beleeves his O<g ref="char:EOLhyphen"/>bedience to <hi>Caeſar</hi> is ſo much a part of his Obedience to <hi>God;</hi> that the later cannot be perform'd without the former? In fine, you, who, with that ſtrong judgment Fame, and I think De<g ref="char:EOLhyphen"/>ſert, gives you to be Maſter of, cannot but ſee, were there no<g ref="char:EOLhyphen"/>thing to intercept the proſpect, that a Papiſt, who is not truly loyal, is not truly a Papiſt, if the not being faithfully obedient to what is taught by a Religion, make a man ceaſe to be of it.</p>
+            <p>But, as it is not for me, to pry into what it was that mov'd you to aſſert this Paradox, ſo your care in publiſhing it, ſuffers none to be ignorant that you have aſſerted it, and by doing ſo caſt an aſperſion upon a ſort of people, whoſe try'd Loyalty in all viciſſitudes of dangerous troubles, as it ſhould have altered your judgment, ſo their long and grievous ſufferings, whereof their <hi>Loyalty</hi> was one, and perhaps the onely cauſe, ſhould, from the charity of your profeſſion, have found, rather pity for their
+<pb n="3" facs="tcp:168878:3"/>afflictions, then aſperſions upon their innocence.</p>
+            <p>And yet, in the ſmall Sphere of my acquaintance, I find very little forwardneſs to uſe any other defence, then ſilent patience, hitherto their onely ſhield, againſt the many, and heavy blows, which (to borrow the mildeſt expreſſion the condeſcendence of charity affords me,) miſtaken Zeal has ſo long given their Fames and Fortunes; and a greater diſpoſition to have recourſe to hea<g ref="char:EOLhyphen"/>ven for an increaſe of ſtrengh, as the blow grows heavier, then to endeavour to lighten the burthen they groan under. But for my part, I muſt confeſs the value I ſet upon Religion and Alle<g ref="char:EOLhyphen"/>giance, makes me not endure to be deprived of either of them at any rate; and however I may be reconcil'd to all other miſe<g ref="char:EOLhyphen"/>ries, I am not able to bear that of deſerving to be miſerable.</p>
+            <p>Beſides, I apprehend ſilence in this caſe would amount, or at leaſt be miſ-interpreted to a confeſſion; and that a Charge ac<g ref="char:EOLhyphen"/>companied with ſuch circumſtances, would, if not cleer'd, be look'd upon as a Sentence, and the world take it for granted, nothing could be pleaded to it, but Guilty. I know I am <hi>Mi<g ref="char:EOLhyphen"/>nimus inter Tribus Iſrael,</hi> little known even among thoſe of my own Religion; but as loyal as any, and as certain of my Obli<g ref="char:EOLhyphen"/>gation to be ſo. I know alſo the concern is general, and greater then to be truſted to any one mans ability, eſpecially ſuch a one as is truly conſcious of his own inſufficiency; Neither do I undertake this Demand of Satiſfaction vainly, or without juſt occaſion offer'd, but as I have my ſhare in the injury, I have alſo a title to be righted; and; ſince no better Champion appears to defend me, think, I both may and ought to defend my ſelf.</p>
+            <p>In the face of the world therefore, I require you to perform your undertaking, and deſire you to reflect, and every body take notice, That if you prove not what you profeſs you are ready to do, viz. <hi>That a Papiſt muſt ceaſe to be a Papiſt, if he will be truly and fully loyal to his Soveraign,</hi> you are guilty of the breach of charity to your Neighbour, in as great a height as cir<g ref="char:EOLhyphen"/>cumſtances can improve a ſin to. For to ſay nothing of the time, when the joyful and long pray'd for Victory of Right over Am<g ref="char:EOLhyphen"/>bition and Tyranny fils the Kingdom with comfortable hopes, That the priviledges of Birthright ſhall no more be forfeited, but by real and really proved miſdemeanors: to ſay nothing of
+<pb n="4" facs="tcp:168878:4"/>the Great Auditory before whom you preacht, perſons, of whoſe wiſdom the Nation has given ſo ſignal a Teſtimony, and of whoſe Counſels his Majeſty has expreſſed ſo tender a regard: Be pleaſed to conſider, 'tis no one you aſperſe, but many, and thoſe, who, of all that lay claim to ſo regarded a Title, give the beſt evidence of being truly <hi>tender Conſciences,</hi> ſince for them they ſuffer ſo generally, ſo conſtantly, ſo deeply. Neither is it a ſmall fault you charge them with, but that Monſter of ſins, <hi>Treaſon,</hi> and that not onely by the violence of paſſion once com<g ref="char:EOLhyphen"/>mitted, but ſuch as is impoſſible not to be alwaies committed. And all this with ſo notorious a publickneſs, that none can be ig<g ref="char:EOLhyphen"/>norant of your charge, as I hope none will be ignorant of our in<g ref="char:EOLhyphen"/>nocence.</p>
+            <p>Now I beſeech you joyn all theſe together, and ſee (if yours do prove an offence) whether Chance could light upon, or In<g ref="char:EOLhyphen"/>duſtry contrive greater aggravations. Conſider therefore, Sir, what you have done, and what you are to do; and either prove what you have ſo ſolemnly undertaken, or practiſe what you have as ſolemnly taught; give an example to the world of that ſerious and true <hi>Repentance</hi> you ſo excellently delivered to your Auditory. But prove it effectually, and let not the Queſtion, when we come to graſp it, vaniſh away by the artifice of ſome deceitful word. You have raiſed in the hearts and thoughts of as many as have either heard or read your Sermon, I conceive, an uncharitable, and unjuſt apprehenſion: If it prove ſo, I hope the reparation you will make, ſhall not be by the fallacy of ſome term, to which your Art may perhaps give another ſenſe, then you have cauſed by it in others, to ſave your ſelf from the obliga<g ref="char:EOLhyphen"/>tion of making any.</p>
+            <p>And yet, to deal plainly, I cannot but be jealous of the ex<g ref="char:EOLhyphen"/>preſſions you uſe. For why do you call us <hi>Papiſts?</hi> You know we have another name, and are not perhaps ſuch men as you make us paſs for by that Term: We ow no blind ſervile obedi<g ref="char:EOLhyphen"/>ence to any upon earth, that can enſnare our Judgments to any thing contrary to thoſe Divine Truths brought from Heaven by our Saviour, to bring us up to Heaven, planted by his Apoſtles, and preſerved by his Spouſe the Church. I preſume you intend by it a Name of Religion, not Opinion; for 'tis the Faith of Chriſt I am to lay down my life for, but know no Obligation to
+<pb n="5" facs="tcp:168878:4"/>loſe a Pins head for the fancies of any private man.</p>
+            <p>The again what mean you by a <hi>true and full</hi> Loyalty? Thoſe Epithetes ſeem to me no more then the iſſue of a fruitful fancy; ſince a Loyalty which is not a true one, is truely no Loyalty: as falſe mony is no mony; and as half a pint is not a pint; ſo if any thing want of full Loyalty, how near ſoever you approach it is not Loyalty. I do not therefore ſee any neceſſity of thoſe termes; Loyalty in the natural acception of words, ſaying both true and full Loyalty: as a ſhilling ſignifies both Twelve pence and good Silver.</p>
+            <p>Under your tearm of <hi>Loyalty</hi> too, I conceive you do not com<g ref="char:EOLhyphen"/>prehend any obligations contradictory to the great one to which all others ought to be ſubſervient; neither of us being, I hope, guilty of that impious flattery, to imagine any duty can be a duty, which is inconſiſtent with that firſt and chiefeſt duty we owe to our Maker and Preſerver. I beſeech you therefore let all theſe Terms be defin'd, that the Queſtion may not vaniſh from us in the miſt of the words we uſe in treating it. That which I, and I think every one elſe, apprehends by your words, is that this Kingdom holds a ſort of people, whoſe Birth-right indeed gives them a title to the Protection of the Laws and pri<g ref="char:EOLhyphen"/>viledges of Community, but whoſe Religion, by miſteaching them in their duty to their King and Country, renders them unworthy of thoſe advantages. This is what I apprehend, and what you are to prove.</p>
+            <p>Now if you ſhould man by <hi>Papiſt</hi> ſomething which I am not; by <hi>True and Full Loyalty,</hi> ſomething which I either do pay, or which none are bound to pay: Your words indeed would be innocent, but the artifice of wreſting them to oppoſe innocence, little ſuitable to your Condition. And that, as I de<g ref="char:EOLhyphen"/>ſire not to be miſtaken in your meaning, none may be ſo in my ſentiments, I conceive my ſelf comprehended in your aſſertion, but know no reaſon why I ſhould deſerve the name you expreſs it in, more then that I am of the Communion of thoſe men whoſe Faith and Government was taught and inſtituted by Chriſt and his Apoſtles, and by their ſucceſſors convey'd in an uninter<g ref="char:EOLhyphen"/>rupted Delivery down to us. I believe, and what I profeſs to you in the face of the world, I am ready by Oath to confirm to all men in the face of heaven, That my Loyalty to my Soveraign
+<pb n="6" facs="tcp:168878:5"/>is an indiſpenſable duty from which no power Spiritual, or Tem<g ref="char:EOLhyphen"/>poral, Domeſtick or Forreign, under any pretence of Excom<g ref="char:EOLhyphen"/>munication, Depoſition, or any other whatſoever, can free me either wholly or in part; and till I am call'd upon to do it more ſolemnly, I here do in the mean time renounce heartily all Diſpenſations, Abſolutions, and whatſoever to the contrary which may raiſe jealouſie in my Soveraign, or diſſatisfaction in my fellow Subjects, profeſſing that notwithſtanding any ſuch pretext, if any ſhould happen to be, I will by the grace of God, perform my Allegiance truly and fully as every good Subject is bound to do. This is my Religion; this is what I have been taught in It concerning Loyalty; and what the occaſion has prom<g ref="char:EOLhyphen"/>pted me to digreſs into: ſince however the Confeſſion I make be impertinent to the buſineſs I have in hand (my task being to <hi>oppoſe what you ſay,</hi> not to ſay all I know my ſelf) it will not I hope be unwelcome to the Reader, at leaſt to ſuch an one as deſires his judgment ſhould be built upon the unmoveable foundation of Truth, of which in things of this nature, there is no greater evidence then the teſtimony of ſuch as certainly know what they ſay, and faithfully ſay what they know.</p>
+            <p>But to return to our work; I utterly deny your Aſſertion, pro<g ref="char:EOLhyphen"/>feſſing to all the world tis not true, <hi>That a Papiſt muſt ceaſe to be a Papiſt, if he will be truely and fully Loyal to his Soveraign;</hi> and before all the world demand of you to prove it, as you have un<g ref="char:EOLhyphen"/>dertaken. If you ſhew me diſloyal, I acknowledg I ought, and ſe<g ref="char:EOLhyphen"/>riouſly profeſs I will repent: if you cannot, lay your hand on your heart, and conſider what tis to make an innocent man, nay, ſo many innocent men paſs for guilty, and guilty of ſo ex<g ref="char:EOLhyphen"/>ecrable a crime as Treaſon; in which caſe I hope you will need no admonition to repent your ſelf.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
